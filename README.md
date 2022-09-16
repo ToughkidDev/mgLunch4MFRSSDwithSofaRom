@@ -4,7 +4,7 @@ MSX mgLunch for MegaFlashRomSCC+SD
 
 mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+ with SofaRom
 
-![mgLunch for MegaFlashRomSCC+SD](mfr.gif)
+![mgLunch for MegaFlashRomSCC+SD](mfr2.gif)
 
 
 USAGE
