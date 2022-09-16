@@ -12,7 +12,7 @@ mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+ with SofaRom
 USAGE
 
     mgLunch.com - mgLunch! for MegaFlashSDSCC+ 
-    srom.com    - Sofarom v3.2 https://www.louthrax.net/mgr/sofarom.html
+    srom.com    - MSX Rom Loader - Sofarom v3.2 https://www.louthrax.net/mgr/sofarom.html
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
     
 
