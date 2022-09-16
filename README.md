@@ -16,7 +16,7 @@ USAGE
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
     
 
-## MSX mgLunch! Setup Guide.   https://youtu.be/qOpE3horClY
+### MSX mgLunch! Setup Guide.  https://youtu.be/qOpE3horClY
 [![MSX mgLunch! Setup Guide.](https://yt-embed.herokuapp.com/embed?v=qOpE3horClY)](https://www.youtube.com/watch?v=qOpE3horClY "MSX mgLunch! Setup Guide.")
 
 
@@ -34,7 +34,7 @@ Operations Keys
 
 ...And more some command options are as below in 'File Select Mode' 
 
-    [RETURN] = Execute Rom file
+    [p] = Run via MSX Ram(Memory Mapper), Not MFRSSD
     [k] = forced execute rom on Konami classic Mapper 
     [s] = forced execute rom on Konami-SCC Mapper 
     [8] = forced execute rom on Ascii-8 Mapper  
@@ -42,7 +42,6 @@ Operations Keys
     [o] = Konami GameMaster2 Combo effect. 
     [e] = Emulate European Key MSX
     [j] = Emulate Japanese Key MSX
-    [p] = Patch ROM to use MFRSSD PSG 
     [t] = Enable R800 or turbo mode
  
 
