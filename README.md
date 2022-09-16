@@ -5,6 +5,7 @@ mgLunch! is a MSX ROM launcher for MegaFlashSDSCC+ with SofaRom
 
    In the previous mgLunch for MFRSSD ( https://github.com/ToughkidDev/mgLunch4MFRSSD ), OPFXSD was used, 
       but because of frequent requests to use Sofarom, I made a new version of mgLunch for SofaRom this time. 
+   
    Because it is a fairly famous loader through SofaRun, I think many of you are familiar with it, 
       but like mgLunch, it has compressed the options of various functions so that you can use it comfortably.
 
