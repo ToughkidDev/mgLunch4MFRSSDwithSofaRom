@@ -35,6 +35,7 @@ Operations Keys
 ...And more some command options are as below in 'File Select Mode' 
 
     [p] = Run via MSX Ram(Memory Mapper), Not MFRSSD
+          *** '/p' There is a chance that operating errors with ROM files will be resolved. 
     [k] = forced execute rom on Konami classic Mapper 
     [s] = forced execute rom on Konami-SCC Mapper 
     [8] = forced execute rom on Ascii-8 Mapper  
