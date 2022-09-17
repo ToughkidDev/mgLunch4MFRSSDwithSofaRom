@@ -52,6 +52,7 @@ Operations Keys
 REQUIREMENTS
 
 MSXDOS2, Nextor, MegaFlashSCC+SD 128KB above
+
 Issues to be aware of in use - https://github.com/ToughkidDev/mgLunch4MFRSSDwithSofaRom/issues
 
 
